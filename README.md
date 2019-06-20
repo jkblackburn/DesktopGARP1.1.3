@@ -1,5 +1,7 @@
 # DesktopGARP1.1.3
-This repository provides the ecological niche modeling community with access to the DesktopGARP 1.1.3 Rule-set Writing and Mapping Application. This application runs the original 1.1.3 DesktopGARP version with the addition of writing the rule-sets from the experiment as a text file and producing a map for each model of how rules are applied to the landscape. These additional tools have been described in the literature in several papers:
+This repository provides the ecological niche modeling community with access to the DesktopGARP 1.1.3 Rule-set Writing and Mapping Application. This application runs the original 1.1.3 DesktopGARP version with the addition of writing the rule-sets from the experiment as a text file and producing a map for each model of how rules are applied to the landscape. 
+
+These additional tools have been described in the literature in several papers:
 
 Barro, A. S., M. Fegan, B. Moloney, K. Porter, J. Muller, S. Warner, and J. K. Blackburn. 2016. Redefining the Australian Anthrax Belt: Modeling the Ecological Niche and Predicting the Geographic Distribution of Bacillus anthracis. PLOS Negl Trop Dis 10:e0004689.
 
@@ -16,3 +18,5 @@ McNyset, K. M. 2005. Use of ecological niche modelling to predict distributions 
 Sloyer, K. E., N. D. Burkett-Cadena, A. Yang, J. L. Corn, S. L. Vigil, B. L. McGregor, S. M. Wisely, and J. K. Blackburn. 2019. Ecological niche modeling the potential geographic distribution of four Culicoides species of veterinary significance in Florida, USA. PloS one 14:e0206648.
 
 We thank R. Scachetti-Pereira for developing the DesktopGARP implementation of the GARP algorithm within the implementation.
+
+Additional DesktopGARP tools from the UF SEER Lab are available from C.G. Haase: https://github.com/cghaase/GARPTools
