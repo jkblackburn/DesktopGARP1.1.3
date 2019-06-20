@@ -19,4 +19,8 @@ Sloyer, K. E., N. D. Burkett-Cadena, A. Yang, J. L. Corn, S. L. Vigil, B. L. McG
 
 We thank R. Scachetti-Pereira for developing the DesktopGARP implementation of the GARP algorithm within the implementation.
 
+Tutorial for installing DesktopGARP 1.1.3 are here in a YouTube video: https://youtu.be/zaUAgjeoAS8
+
+Tutorial for populating a GARP experiment is found here in a YouTube video: https://youtu.be/vIzRiXA2aOE 
+
 Additional DesktopGARP tools from the UF SEER Lab are available from C.G. Haase: https://github.com/cghaase/GARPTools
