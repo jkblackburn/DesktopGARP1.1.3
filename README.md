@@ -1,5 +1,5 @@
 # DesktopGARP1.1.3
-This repository provides the ecological niche modeling community with access to the DesktopGARP 1.1.3 Rule-set Writing and Mapping Application. This application runs the original 1.1.3 DesktopGARP version with the addition of writing the rule-sets from the experiment as a text file and producing a map for each model of how rules are applied to the landscape. 
+This repository provides the ecological niche modeling community with access to the DesktopGARP 1.1.3 Rule-set Writing and Mapping Application. This application runs the original 1.1.3 DesktopGARP version with the addition of writing the rule-sets from the experiment as a text file and producing a map for each model of how rules are applied to the landscape. The rule-set is the set of if/then logic strings relating environmental conditions to presence/absence. These rules are then fitted or mapped to landscape, with each rule assigning presence or absence. This function can be used to visualize how specific rules match specific locations. This was illustrated in detail in Blackburn (2006) and Joyner (2010). Rule-set exploraration was detailed first in McNyset (2005), then used in specific analyses in Mullins et al. (2011) and Barro et al. (2016). Most recently, the rule-sets were evaluated to compare environmental conditions supporting different Culicoides midges in Florida (Sloyer et al. 2018). 
 
 These additional tools have been described in the literature in several papers:
 
@@ -17,7 +17,7 @@ McNyset, K. M. 2005. Use of ecological niche modelling to predict distributions 
 
 Sloyer, K. E., N. D. Burkett-Cadena, A. Yang, J. L. Corn, S. L. Vigil, B. L. McGregor, S. M. Wisely, and J. K. Blackburn. 2019. Ecological niche modeling the potential geographic distribution of four Culicoides species of veterinary significance in Florida, USA. PloS one 14:e0206648.
 
-We thank R. Scachetti-Pereira for developing the DesktopGARP implementation of the GARP algorithm within the implementation.
+We thank R. Scachetti-Pereira for developing the DesktopGARP algorithm implementation 1.1.3 with the rule-set writing and mapping functions.
 
 Tutorial for installing DesktopGARP 1.1.3 are here in a YouTube video: https://youtu.be/zaUAgjeoAS8
 
